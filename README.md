@@ -87,9 +87,9 @@ python ttest.py
   - Deployable attendance dashboard
 
 ### 👤 Author
-    Pranjal Kundu
-    Graphic Era Hill University, Dehradun
-    “Always learning, always building.”
+  Pranjal Kundu
+  Graphic Era Hill University, Dehradun
+  “Always learning, always building.”
 
 ### 📃 License
-    This project is open-source and available under the MIT License.
+  This project is open-source and available under the MIT License.
