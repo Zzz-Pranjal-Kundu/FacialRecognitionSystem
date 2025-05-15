@@ -69,27 +69,27 @@ python ttest.py
   - Press q to quit the session
 
 ### 📈 Performance
-  Detection confidence threshold: > 0.5
+  - Detection confidence threshold: > 0.5
   
-  Real-time performance: ~20 FPS
+  - Real-time performance: ~20 FPS
   
-  KNN classification latency: < 100ms per face
+  - KNN classification latency: < 100ms per face
 
 ### ✅ Future Improvements
-  Add support for face re-training without restarting the app
+  - Add support for face re-training without restarting the app
   
-  Replace KNN with a deep learning-based classifier for higher accuracy
+  - Replace KNN with a deep learning-based classifier for higher accuracy
   
-  Add GUI for user-friendly management
+  - Add GUI for user-friendly management
   
-  Improve unknown face handling with threshold logic
+  - Improve unknown face handling with threshold logic
   
-  Deployable attendance dashboard
+  - Deployable attendance dashboard
 
 ### 👤 Author
-Pranjal Kundu
-Graphic Era Hill University, Dehradun
-“Always learning, always building.”
+    Pranjal Kundu
+    Graphic Era Hill University, Dehradun
+    “Always learning, always building.”
 
 ### 📃 License
-This project is open-source and available under the MIT License.
+    This project is open-source and available under the MIT License.
